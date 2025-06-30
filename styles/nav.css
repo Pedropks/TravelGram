@@ -25,13 +25,13 @@ nav ul li:last-child img {
   margin-inline: auto;
 }
 
-#profiled {
+/* #profiled {
   display: flex;
   max-width: 620px;
   gap: 32px;
-}
+} */
 
-h1 {
+/* h1 {
   font: var(--text-lg);
   color: black;
   margin-bottom: 8px;
@@ -39,4 +39,4 @@ h1 {
 
 #info {
   display: flex;
-}
+} */
