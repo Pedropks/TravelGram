@@ -8,22 +8,29 @@ header .container {
   justify-content: space-between;
 }
 
-#profiled {
+#profile {
   display: flex;
   gap: 32px;
 }
 
-#profiled > div {
+#profile img {
+  width: 176px;
+  height: 176px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+#profile > div {
   max-width: 384px;
 }
 
-#profiled h1 {
+#profile h1 {
   font: var(--text-lg);
   color: var(--text-color-primary);
   margin-bottom: 8px;
 }
 
-#profiled p {
+#profile p {
   font: var(--text-md);
 }
 
@@ -33,6 +40,7 @@ header .container {
   flex-direction: column;
   gap: 16px;
   max-width: 280px;
+  margin-right: 110px;
 }
 
 #info li {

@@ -24,19 +24,3 @@ nav ul li:last-child img {
   max-width: 1280px;
   margin-inline: auto;
 }
-
-/* #profiled {
-  display: flex;
-  max-width: 620px;
-  gap: 32px;
-} */
-
-/* h1 {
-  font: var(--text-lg);
-  color: black;
-  margin-bottom: 8px;
-}
-
-#info {
-  display: flex;
-} */
